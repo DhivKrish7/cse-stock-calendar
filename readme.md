@@ -7,9 +7,13 @@ A simple reusable calendar component built with python and deployed in streamlit
 - Highlights today using a different color
 - Upcoming events, filter all events with symbols 
 
-### Requirements
+### Libs used
 - streamlit
 - pandas
+- gspread
+- google-auth
+- datetime
+- calender
 
 ### Usage
 Go to this link: https://dhivkrish7-csestockcalendar.streamlit.app/
